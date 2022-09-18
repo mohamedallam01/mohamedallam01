@@ -1,6 +1,6 @@
-### Hi there, I'm Mohamed Allam, A junior Android developer from Egypt 🇪🇬👋
+## Hi there, I'm Mohamed Allam, A junior Android developer from Egypt 🇪🇬👋
 
-# I stated to built Android apps 1 year ago, I can work with
+### I started to built Android apps 1 year ago, I can work with
 
 - Kotlin, Android SDK, Android studio
 - MVVM Archtictre & Modularization
