@@ -9,4 +9,4 @@
 - Dagger Hilt
 - Retrofit
 
-Currently Looking for an Internship or a junior Android developer position in reputable software company to utilize my experience and gain much more
+Currently Looking for a junior Android developer position in reputable software company to utilize my experience and gain much more
