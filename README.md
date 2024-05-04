@@ -1,4 +1,4 @@
-## Hi there, I'm Mohamed Allam, A junior Android developer from Egypt 🇪🇬👋
+## Hi there, I'm Mohamed Allam, An Android developer from Egypt 🇪🇬👋
 
 ### I started to build Android apps 3 years ago, I can work with
 
