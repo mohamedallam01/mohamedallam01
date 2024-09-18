@@ -10,4 +10,4 @@
 - Retrofit
 - Objective-C, User Defaults
 
-Currently Working at I-SOFT INTL software company
+Currently Working at I-SOFT INTL. software company
