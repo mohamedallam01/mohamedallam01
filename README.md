@@ -10,4 +10,4 @@
 - Retrofit
 - Objective-C, User Defaults
 
-Currently Looking for a position in reputable software company to utilize my experience and gain much more
+Currently Working at I-SOFT INTL software company
